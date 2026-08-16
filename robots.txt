@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-tduu1a.hsteamid.com/sitemap.xml
